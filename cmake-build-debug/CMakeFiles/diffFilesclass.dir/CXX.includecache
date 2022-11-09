@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/datetime.hpp
+iosfwd
+-
+rtklib.h
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/rtklib.h
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/gps_nav.hpp
+navigation_base.hpp
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_base.hpp
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/helperFunctions.cpp
+helperFunctions.h
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/helperFunctions.h
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/helperFunctions.h
+ubxMessage.h
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/ubxMessage.h
+vector
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/vector
+map
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/map
+iomanip
+-
+bitset
+-
+fstream
+-
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/main.cpp
+iostream
+-
+navigation_engine.hpp
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_engine.hpp
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_base.hpp
+type_traits
+-
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_engine.cpp
+bitset
+-
+iomanip
+-
+iostream
+-
+algorithm
+-
+navigation_engine.hpp
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_engine.hpp
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_engine.hpp
+map
+-
+string
+-
+gps_nav.hpp
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/gps_nav.hpp
+gps_subframe.hpp
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/gps_subframe.hpp
+helperFunctions.h
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/helperFunctions.h
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/rtklib.h
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+string.h
+-
+math.h
+-
+time.h
+-
+ctype.h
+-
+winsock2.h
+-
+windows.h
+-
+pthread.h
+-
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/sbasMessageType.h
+iostream
+-
+datetime.hpp
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/datetime.hpp
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/ubxMessage.cpp
+helperFunctions.h
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/helperFunctions.h
+
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/ubxMessage.h
+sbasMessageType.h
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/sbasMessageType.h
+navigation_base.hpp
+C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_base.hpp
+

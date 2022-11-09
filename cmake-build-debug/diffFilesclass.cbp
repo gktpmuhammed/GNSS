@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="diffFilesclass"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="diffFilesclass">
+				<Option output="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/diffFilesclass.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 diffFilesclass"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="diffFilesclass/fast">
+				<Option output="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/diffFilesclass.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 diffFilesclass/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/datetime.cpp">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/datetime.hpp">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/helperFunctions.cpp">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/helperFunctions.h">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/main.cpp">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_base.hpp">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_engine.cpp">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/navigation_engine.hpp">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/rtkcmn.c">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/rtklib.h">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/rtklib_constansts.h">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/sbasMessageType.h">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/ubxMessage.cpp">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/ubxMessage.h">
+			<Option target="diffFilesclass"/>
+		</Unit>
+		<Unit filename="C:/Users/Cezeri Stajyer/CLionProjects/diffFilesclass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
